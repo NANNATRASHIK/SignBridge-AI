@@ -1,0 +1,21 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.env
+.env.*
+.ipynb_checkpoints/
+.vscode/
+.DS_Store
+Thumbs.db
+# Model files
+*.pkl
+*.joblib
+*.h5
+*.keras
+*.onnx
+
+# Large datasets
+*.csv
+*.zip
